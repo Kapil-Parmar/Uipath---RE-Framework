@@ -1,0 +1,10 @@
+Hi,
+
+Please find beneath report of current run.
+
+Success: {0}
+Business Exception: {1}
+Application Exception: {2}
+
+Thanks,
+Ui robot
